@@ -1,0 +1,94 @@
+import selenium
+import time
+import random
+from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.keys import Keys
+
+driver = webdriver.Chrome()
+
+a = random.randint(111111111,999999999)
+b = "8"
+c = random.randint(11111111,99999999)
+a = str(a)
+b = str(b)
+c = str(c)
+name = "张三"
+phone = "1" + b + a
+zhanghao = "test" + phone
+huzhao = "E" + c
+passwd = "yycarry123"
+
+def sgin():
+    url = "http://172.25.16.226:9090/lsgzgl/login"
+    driver.get(url)
+    time.sleep(2)
+    driver.implicitly_wait(5)
+    #到注册信息填写页面
+    driver.find_element_by_xpath("/html/body/div[1]/div[2]/div[2]/a[3]").click()
+    driver.find_element_by_xpath("/html/body/div/div/div[2]/div[3]/ul/li[1]").click()
+    driver.find_element_by_xpath("/html/body/div/div/div[2]/div[3]/a").click()
+    #填写注册信息
+    driver.find_element_by_xpath("//*[@id='new_lawer']").click()
+    driver.find_element_by_name('loginId').send_keys(zhanghao)#账号
+    driver.find_element_by_name('CName').send_keys(name)#姓名
+    driver.find_element_by_id("lawerCZjbhlbDiv").click()
+    time.sleep(2)
+    driver.find_element_by_xpath("//div[@id='lawerCZjbhlbDiv']/ul/li[@value='04']").click()#证件类别选择
+    driver.find_element_by_name('CZjbh').send_keys(huzhao)#输入账号
+    driver.find_element_by_name('password').send_keys(passwd)#输入密码
+    driver.find_element_by_id('lawerCPasswordInputR').send_keys(passwd)#确认密码
+    driver.find_element_by_name('CLxdh').send_keys(phone)#输入电话号码
+    driver.find_element_by_id('lawerCLxdhYzmSend').click()#获取验证码
+    driver.find_element_by_id('lawerCLxdhYzm').send_keys("1234")#输入验证码
+    driver.find_element_by_link_text("立即注册").click()#立即注册
+    driver.close()
+
+#sgin()
+
+def login(usr,passwd1):
+    url2 = "http://172.25.16.226:9090/lsgzgl/login"
+    driver.get(url2)
+    driver.implicitly_wait(5)
+    time.sleep(1)
+    #登陆操作
+    element = driver.find_element_by_id("j_username")
+    ActionChains(driver).move_to_element(element).click().\
+        send_keys(usr).send_keys(Keys.TAB).\
+        send_keys(passwd1).send_keys(Keys.TAB).\
+        send_keys("1234").send_keys(Keys.TAB).\
+        send_keys(Keys.ENTER).perform()
+
+#login(name,passwd)
+
+def zhiyeshenqing():
+    driver.implicitly_wait(5)
+    iframe = driver.find_element_by_name("iframe_content_iframe")
+    driver.find_element_by_xpath("//div[@id = 'jqListItem366d1']/span").click()
+    time.sleep(2)
+    driver.switch_to_frame(iframe)
+    driver.find_element_by_class_name("jqButton-btn").click()
+    time.sleep(2)
+    #第一个页签的确认
+    ActionChains(driver).send_keys(Keys.TAB).\
+        send_keys(Keys.TAB).send_keys(Keys.ARROW_DOWN).\
+        send_keys(Keys.ENTER).\
+        send_keys(Keys.TAB).send_keys("盈科").send_keys(Keys.ENTER).\
+        send_keys(Keys.TAB).send_keys(Keys.TAB).send_keys(Keys.TAB).send_keys(Keys.ENTER).perform()
+    time.sleep(1)
+    driver.switch_to_default_content()
+    iframe1 = driver.find_element_by_id("14275270a0gl7gefxibbvldk5sbp9nwiiframe")
+    driver.switch_to_frame(iframe1)
+    iframe2 = driver.find_element_by_id("jqIframeEdit_iframe")
+    driver.switch_to_frame(iframe2)
+    driver.find_element_by_id("tycns").click()
+    
+
+
+login('test1001',passwd)
+zhiyeshenqing()
+    
+    
+
+
+
