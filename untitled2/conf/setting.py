@@ -1,0 +1,13 @@
+'''
+219/06/18
+'''
+MYSQL_HOST = '127.0.0.1'
+MYSQL_PORT = 3306
+SQL_DB = 'sql_db'
+
+MYRDS_HOST = '127.0.0.1'
+MYRDS_PORT = '6379'
+RDS_DB = '2'
+
+SERVER_PORT = 8888
+SALT = 'ababab'
