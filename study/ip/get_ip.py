@@ -1,9 +1,18 @@
 import requests
 from bs4 import BeautifulSoup
+import pymysql
+import time
 import lxml
 
+conn = pymysql.connect(host="127.0.0.1", user="root",password="123",database="testdb",charset="utf8")
+mysql = conn.cursor()
 
-def prase_ip():
+def save_data(ip, port, address, proxy_typle):
+    sql = "insert into proxy_ip(ip, port, address, proxy_type)VALUES('{0}', '{1}', '{2}', '{3}');"
+    mysql.execute(sql.format(ip, port, address, proxy_typle))
+    conn.commit()
+
+def prase_ip(url):
     '''
     爬取西刺免费代理ip池
     :return:无返回
@@ -19,7 +28,6 @@ def prase_ip():
         "Upgrade-Insecure-Requests": "1",
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36"
     }
-    url = f'https://www.xicidaili.com/nn/'
     r_html = None
     for i in range(2):
         try:
@@ -37,10 +45,14 @@ def prase_ip():
             'ip': item_list[1].text,
             'port': item_list[2].text,
             'address': item_list[3].text,
-            'proxy_typle': item_list[5].text,
-            'speed':
+            'proxy_typle': item_list[5].text
         }
-        print(item_list)
 
 
-prase_ip()
+
+
+for page in range(5):
+    url = f'https://www.xicidaili.com/nn/{page}'
+    for item in prase_ip(url):
+        time.sleep(2)
+        save_data(item['ip'], item['port'], item['address'], item['proxy_typle'])

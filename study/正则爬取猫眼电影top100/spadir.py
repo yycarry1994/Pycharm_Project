@@ -20,12 +20,12 @@ def prase_page(html):
     all_item = re.findall(r, html)
     for item in all_item:
         yield{
-            'index' : item[0],
-            'image' : item[1],
-            'name' : item[2],
-            'star' : item[3].strip()[3:],
-            'time' : item[4].strip()[5:],
-            'score' : item[5] + item[6]
+            'index': item[0],
+            'image': item[1],
+            'name': item[2],
+            'star': item[3].strip()[3:],
+            'time': item[4].strip()[5:],
+            'score': item[5] + item[6]
         }
 
 def write_to_file(content):

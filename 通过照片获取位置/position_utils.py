@@ -95,4 +95,3 @@ def out_of_china(lng, lat):
     if lat < 0.8293 or lat > 55.8271:
         return True
     return False
-© 2019 GitHub, Inc.

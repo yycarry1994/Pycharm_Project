@@ -26,5 +26,5 @@ def download_img(path, title, img_url):
 
 path = 'H:\渤海拾贝趣图\\'
 title = '1234'
-img_url = 'https://abiko.loli.net/files/2019/06/04/fa7cdfad1a5aaf8370ebeda47a1ff1c3.gif'
+img_url = 'http://img.mp.itc.cn/upload/20170805/19ad9705aec44c81af1760d40622c9fb.jpg'
 download_img(path, title, img_url)
