@@ -50,11 +50,13 @@ class with_excel:
             test_data.append(row_data)
         return test_data
 
-'''
-if __name__ == '__main__':
-    aa = with_excel(path, sheet_name)
-    print(str(aa.get_cell_data(0, 0)))
-'''
+
+#
+# if __name__ == '__main__':
+#     aa = with_excel(path, sheet_name)
+#     aa.write_data('2', '实际结果', 'pass')
+
+
 
 
 
