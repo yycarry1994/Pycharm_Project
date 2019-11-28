@@ -1,0 +1,1 @@
+sql_bjg = f'''select a.attnum,a.attname,concat_ws('',t.typname,SUBSTRING(format_type(a.atttypid,a.atttypmod) from '\(.*\)')) as type,d.description from pg_class c,pg_attribute a,pg_type t,pg_description dwhere c.relname='{table_name}' and a.attnum>0 and a.attrelid=c.oid and a.atttypid=t.oid and d.objoid=a.attrelid and d.objsubid=a.attnum;'''

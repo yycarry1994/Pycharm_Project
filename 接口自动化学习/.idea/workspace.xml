@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a3aee5b-f8b3-4da1-861c-ec549501a6d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/Airtest_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/Package_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/all_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_declare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/run_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api_gj/with_excel2.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_gj/with_excel2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/run_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/run_method.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="接口自动化学习" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api_gj/with_mock.py" />
+        <option value="$PROJECT_DIR$/api_gj/test.py" />
+        <option value="$PROJECT_DIR$/api_gj/123.http" />
+        <option value="$PROJECT_DIR$/api_gj/test1.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_config.py" />
+        <option value="$PROJECT_DIR$/base/run_methed.py" />
+        <option value="$PROJECT_DIR$/Data/with_config.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_json.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_requests.py" />
+        <option value="$PROJECT_DIR$/Data/get_data.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_excel.py" />
+        <option value="$PROJECT_DIR$/with_excel2.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_compare.py" />
+        <option value="$PROJECT_DIR$/main/aaaa.json" />
+        <option value="$PROJECT_DIR$/Data/write_data.py" />
+        <option value="$PROJECT_DIR$/main/run_main.py" />
+        <option value="$PROJECT_DIR$/api_gj/with_excel2.py" />
+        <option value="$PROJECT_DIR$/base/run_method.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="312" />
+    <option name="y" value="62" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Airtest_Project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86181\PycharmProjects\接口自动化学习\api_gj" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86181\PycharmProjects\接口自动化学习\api_gj" />
+      <recent name="C:\Users\86181\PycharmProjects\接口自动化学习\main" />
+      <recent name="C:\Users\86181\PycharmProjects\接口自动化学习\Data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.with_excel2 (1)">
+    <configuration name="run_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="接口自动化学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/run_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="with_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="接口自动化学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gj/with_excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="with_excel2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="接口自动化学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gj/with_excel2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="with_excel2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="接口自动化学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\86181\PycharmProjects\接口自动化学习\api_gj\with_excel2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="with_requests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="接口自动化学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_gj" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_gj/with_requests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.with_excel2 (1)" />
+        <item itemvalue="Python.with_excel2" />
+        <item itemvalue="Python.with_excel" />
+        <item itemvalue="Python.run_main" />
+        <item itemvalue="Python.with_requests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a3aee5b-f8b3-4da1-861c-ec549501a6d6" name="Default Changelist" comment="" />
+      <created>1561693709199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561693709199</updated>
+      <workItem from="1561693728367" duration="15907000" />
+      <workItem from="1561969361735" duration="17517000" />
+      <workItem from="1562667810371" duration="8426000" />
+      <workItem from="1562808937366" duration="8932000" />
+      <workItem from="1563264393473" duration="647000" />
+      <workItem from="1563368951604" duration="3690000" />
+      <workItem from="1563515840454" duration="12000" />
+      <workItem from="1566300074025" duration="2943000" />
+      <workItem from="1567664489047" duration="8735000" />
+      <workItem from="1570678911529" duration="941000" />
+      <workItem from="1570783454281" duration="1838000" />
+      <workItem from="1572176074476" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70205000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="312" y="62" width="1378" height="733" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865228" visible="true" weight="0.21092564" />
+      <window_info id="Structure" order="1" sideWeight="0.5013477" side_tool="true" weight="0.25321338" />
+      <window_info id="Favorites" order="2" sideWeight="0.502008" side_tool="true" weight="0.25321338" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.11822126" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32884097" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32884097" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1563369285821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/$with_excel2.coverage" NAME="with_excel2 Coverage Results" MODIFIED="1567668163979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$with_requests.coverage" NAME="with_requests Coverage Results" MODIFIED="1561975961292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api_gj" />
+    <SUITE FILE_PATH="coverage/$with_excel2__1_.coverage" NAME="with_excel2 (1) Coverage Results" MODIFIED="1567669767567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api_gj" />
+    <SUITE FILE_PATH="coverage/$with_excel.coverage" NAME="with_excel Coverage Results" MODIFIED="1567667011283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api_gj" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api_gj/123.http" />
+    <entry file="file://$PROJECT_DIR$/api_gj/test1.py" />
+    <entry file="file://$PROJECT_DIR$/api_gj/with_config.py" />
+    <entry file="file://H:/stduy/2019.4.28/利用pandas操作excel.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/sessions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-410">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/json/decoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="336" selection-start-line="336" selection-end-line="336" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/json/encoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="896" selection-start-line="896" selection-end-line="896" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="2814" selection-start-line="2814" selection-end-line="2814" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pandas/core/indexing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="2286" selection-start-line="2286" selection-end-line="2286" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlrd/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1271" selection-start-line="1271" selection-end-line="1271" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/zipfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="1288" selection-start-line="1288" selection-end-line="1288" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/write_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/aaaa.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/get_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/with_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="54" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_requests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/run_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_mock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_excel2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="24" selection-start-line="35" selection-start-column="4" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api_gj/with_compare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/run_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

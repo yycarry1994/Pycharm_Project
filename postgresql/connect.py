@@ -1,6 +1,4 @@
 import psycopg2
-
-
 class PostGreSQL:
     # 初始化
     def __init__(self, dataBaseName, userName, password, host, port):
@@ -56,3 +54,5 @@ class PostGreSQL:
     def GetConnectInfo(self):
         print("连接信息：")
         print("服务器:%s , 用户名:%s , 数据库:%s " % (self.host, self.userName, self.dataBaseName))
+
+

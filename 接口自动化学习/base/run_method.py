@@ -16,7 +16,7 @@ class RunMethod:
             res = requests.get(url=url, data=data)
         return res
 
-    def run_main(self, method, url, data, header):
+    def run_main(self, method, url, data, header=None):
         if method == 'post':
             res = self.post_main(url, data, header)
         else:

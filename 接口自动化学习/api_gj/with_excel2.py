@@ -23,7 +23,7 @@ class with_excel2:
     def write_data(self, row, col, data1):   #行号为第二行开始，col固定为12
         data = self.ws.cell(row, col, data1)
         self.wb.save(self.path)
-        print(data)
+
 
 
 # if __name__ == '__main__':

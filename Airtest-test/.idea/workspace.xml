@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03d20373-9cb6-4f69-8a88-d3460921ea73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Airtest-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/air_test.air/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/air_test.air/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/air_test.air/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/Airtest_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/runner_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/summary_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp_tool/main/RunMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp_tool/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp_tool/tools/delete.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp_tool/tools/ftp_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ftp_tool/tools/remove_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/all_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_declare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/run_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Airtest-test.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="70" />
+    <option name="width" value="1554" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Airtest-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Airtest-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/sotest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86181\PycharmProjects\Airtest-test" />
+      <recent name="C:\Users\86181\PycharmProjects\Airtest-test\venv\Lib\site-packages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="air_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Airtest-test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/air_test.air" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/air_test.air/air_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.air_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03d20373-9cb6-4f69-8a88-d3460921ea73" name="Default Changelist" comment="" />
+      <created>1572517414800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572517414800</updated>
+      <workItem from="1572517438803" duration="250000" />
+      <workItem from="1573618824375" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="899000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Airtest_test$air_test.coverage" NAME="air_test Coverage Results" MODIFIED="1572517675267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/air_test.air" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/airtest_selenium/utils/six.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/airtest/core/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/air_test.air/air_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#46#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

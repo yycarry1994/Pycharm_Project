@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48b199b3-21d5-44b6-9587-a7f3bcc694af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../postgresql/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tk.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Button.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Checkbutton多选框控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Checkbutton多选框控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Combobox下拉控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Combobox下拉控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Entry.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Entry.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Frame控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Frame控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Listbox四.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Listbox四.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件一.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件一.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件三.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件三.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件二.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Listbox控件二.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Menu顶层菜单.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Menu顶层菜单.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Menu鼠标右键菜单.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Menu鼠标右键菜单.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Radiobutton单选框.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Radiobutton单选框.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Scale控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Scale控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Spinbox控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Spinbox控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/Text控件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/Text控件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/响应所有按键的事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/响应所有按键的事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/响应特殊按键事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/响应特殊按键事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/带滚动条的Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/带滚动条的Text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/指定按键事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/指定按键事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/树状数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/树状数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/点击按钮输出输入框中的内容.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/点击按钮输出输入框中的内容.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/组合按键事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/组合按键事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/绝对布局.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/绝对布局.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/表格布局.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/表格布局.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/表格数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/表格数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/进入和离开事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/进入和离开事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/鼠标点击事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/鼠标点击事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/鼠标移动事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/鼠标移动事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/tkinter/鼠标释放事件.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/tkinter/鼠标释放事件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/ip/get_ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study/ip/get_ip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/ip/ipproxy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study/ip/ipproxy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/正则爬取猫眼电影top100/spadir.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study/正则爬取猫眼电影top100/spadir.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../study/爬取渤海拾贝趣图/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../study/爬取渤海拾贝趣图/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threading_learn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../threading_learn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threading_learn/lesson1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../threading_learn/lesson1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threading_learn/suds_learn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../threading_learn/suds_learn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/bin/start2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/bin/start2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/Data/get_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/Data/get_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/Data/with_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/Data/with_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_mock.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_mock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_requests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_requests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/main/aaaa.json" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/main/aaaa.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/main/run_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/main/run_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/main/test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/main/test.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XandY.py" beforeDir="false" afterPath="$PROJECT_DIR$/XandY.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/position_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/position_utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XandY.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+              <folding>
+                <element signature="e#113#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/position_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2016">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/position_utils.py" />
+        <option value="$PROJECT_DIR$/position_utils.py" />
+        <option value="$PROJECT_DIR$/XandY.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="129" />
+    <option name="y" value="133" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="通过照片获取位置" type="b2602c69:ProjectViewProjectNode" />
+              <item name="通过照片获取位置" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="通过照片获取位置" type="b2602c69:ProjectViewProjectNode" />
+              <item name="通过照片获取位置" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="通过照片获取位置" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="通过照片获取位置" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (通过照片获取位置) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="通过照片获取位置" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (通过照片获取位置) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Pycharm_Project/Pycharm_Project/locust" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86181\PycharmProjects\通过照片获取位置" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="XandY" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="通过照片获取位置" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XandY.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.XandY" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48b199b3-21d5-44b6-9587-a7f3bcc694af" name="Default Changelist" comment="" />
+      <created>1566984312990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566984312990</updated>
+      <workItem from="1566984324324" duration="3404000" />
+      <workItem from="1567043695431" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3425000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="129" y="133" width="1616" height="876" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20051414" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3045822" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39892185" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$XandY.coverage" NAME="XandY Coverage Results" MODIFIED="1566987055891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/XandY.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="e#113#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/position_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

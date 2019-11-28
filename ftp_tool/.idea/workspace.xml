@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4505554-c31d-45ee-a5ab-1d59e781ec9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Airtest-test/.idea/Airtest-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest-test/air_test.air/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest-test/air_test.air/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest-test/air_test.air/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/Airtest_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/runner_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/summary_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test2用例集/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/air_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/tpl1572348184708.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/test用例集/tpl1572352408518.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/airtest-runner/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Airtest_Project/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main/RunMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/delete.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/ftp_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/remove_files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/all_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_declare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/postgre_fun_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/run_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/airtest_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../postgresql/venv/Lib/site-packages/airtest_selenium/utils/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../postgresql/get_Table_Structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/api_gj/with_excel2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/../接口自动化学习/base/run_method.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/ftp_tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="e#44#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/remove_files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <element signature="e#1#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/RunMain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6468">
+              <caret line="297" column="144" selection-start-line="297" selection-start-column="144" selection-end-line="297" selection-end-column="144" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/remove_files.py" />
+        <option value="$PROJECT_DIR$/tools/delete.sh" />
+        <option value="$PROJECT_DIR$/main/RunMain.py" />
+        <option value="$PROJECT_DIR$/tools/ftp_tool.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ftp_tool.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="70" />
+    <option name="width" value="1554" />
+    <option name="height" value="929" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ftp_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftp_tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ftp_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ftp_tool" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="G:/ssootest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunMain" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ftp_tool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/RunMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RunMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4505554-c31d-45ee-a5ab-1d59e781ec9e" name="Default Changelist" comment="" />
+      <created>1573026023962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573026023962</updated>
+      <workItem from="1573026025155" duration="8395000" />
+      <workItem from="1573117577226" duration="1895000" />
+      <workItem from="1573616266865" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10332000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38752666" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5399645" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sh" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ftp_tool$RunMain.coverage" NAME="RunMain Coverage Results" MODIFIED="1573117668800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tools/delete.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/ftp_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#44#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/remove_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#1#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/RunMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6468">
+          <caret line="297" column="144" selection-start-line="297" selection-start-column="144" selection-end-line="297" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
